@@ -12,6 +12,19 @@ Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan r
 
 WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bisa diapnggil ke file html sehingga semua file akan disamakan menggunakan php sehingga dapat dipanggil. Oleh karena itu, perlu pengaturan ulang untuk menampilkan hasil, terlebih karena menggunakan server localhost juga sehingga tidak akan tertampil secara otomatis di halaman GitHub.
 
+<img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/4c00cd29-54ef-497c-a4a0-654224ee39c4">
+
+
+<img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/8a09daae-f08d-4f56-b6bd-6581466d1881">
+
+
+<img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/002e23c1-cbc5-4625-b504-95048d048ec1">
+
+
+<img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/f72a093d-77d6-4d8d-a48a-84b753e61ad7">
+
+
+
 <img width="947" alt="Screenshot 2023-11-25 063953" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/02941929-ffa0-476e-81de-e878192863d0">
 
 
