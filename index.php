@@ -20,7 +20,7 @@
             <!-- Navigation-->
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container px-5">
-                    <a class="navbar-brand" href="index.html">MESEM</a>
+                    <a class="navbar-brand" href="index.php">MESEM</a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
@@ -39,11 +39,11 @@
                     <div class="row gx-5 align-items-center justify-content-center">
                         <div class="col-lg-8 col-xl-7 col-xxl-6">
                             <div class="my-5 text-center text-xl-start">
-                                <h1 class="display-5 fw-bolder text-blue mb-2">MENGENAL DENGAN DEKAT DESA WISATA DAN SENTRA INDSUTRI KECIL MENENGAH SLEMAN</h1>
-                                <p class="lead fw-normal text-blue-50 mb-4"> Jelajahi berbagai desa wisata dan sentra industri kecil-menegah dengan layanan WebGIS, ketahui statistik dan infografis data desa wisata dan sentra UMKM, dan beri kontibursi untuk pengembangan selanjutnya</p>
+                                <h1 class="display-5 fw-bolder text-blue mb-2">MENGENAL DENGAN DEKAT DESA WISATA DAN SENTRA INDUSTRI KECIL MENENGAH SLEMAN</h1>
+                                <p class="lead fw-normal text-blue-50 mb-4"> Jelajahi berbagai desa wisata dan sentra industri kecil-menengah dengan layanan WebGIS, ketahui statistik dan infografis data desa wisata dan sentra UMKM, dan beri kontibursi untuk pengembangan selanjutnya</p>
                                 <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#services">Layanan</a>
-                                    <a class="btn btn-outline-dark btn-lg px-4" a href="https://slemankab.go.id/">Web Resmi</a>
+                                    <a class="btn btn-primary btn-lg px-4 me-sm-3" href="#services">FITUR</a>
+                                    <a class="btn btn-outline-dark btn-lg px-4" a href="https://slemankab.go.id/">WEB RESMI</a>
                                 </div>
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <div class="row gx-5">
                         <div class="col-lg-4 mb-5">
                             <div class="card h-70 shadow border-0">

@@ -204,7 +204,10 @@
                 $lat = $row["Latitude"];
                 $long = $row["Longitude"];
                 $info = $row["Nama_Sentra"];
-                echo "L.marker([$lat, $long]).addTo(map).bindPopup('$info');";
+                $info1 = $row["Kelompok_Cabang"];
+                $info2 = $row["Tahun_Berdiri"];
+                $info3 = $row["Alamat"];
+                echo "L.marker([$lat, $long]).addTo(map).bindPopup('$info', '$info1', '$info2', '$info3');";
             }
         } else {
             echo "0 results";
