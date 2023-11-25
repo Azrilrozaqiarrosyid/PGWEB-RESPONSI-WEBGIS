@@ -25,6 +25,9 @@ Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan r
 <img width="960" alt="Screenshot 2023-11-25 064113" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/1bc0dd5b-e003-4291-a43f-5656a50d1bb9">
 
 
+<img width="960" alt="Screenshot 2023-11-25 064052" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/634cfe15-b940-4554-a26e-c6d6c7e149c1">
+
+
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/f1126319-18fd-4297-b7a3-8337ca388973">
 
 
