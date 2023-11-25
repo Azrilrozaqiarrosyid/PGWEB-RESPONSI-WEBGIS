@@ -12,19 +12,27 @@ Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan r
 
 <img width="947" alt="Screenshot 2023-11-25 063953" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/02941929-ffa0-476e-81de-e878192863d0">
 
+
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/e147cb58-68e1-493a-82ea-c3cbc5ccb63b">
+
 
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/71864bbd-2e9f-4e77-ad38-1265249320c3">
 
+
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/ccac2d27-721b-4ecc-8b16-25c5eb66f556">
+
 
 <img width="960" alt="Screenshot 2023-11-25 064113" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/1bc0dd5b-e003-4291-a43f-5656a50d1bb9">
 
+
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/f1126319-18fd-4297-b7a3-8337ca388973">
+
 
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/f5eb1e72-5da6-477b-a180-e7eefcf1c24e">
 
+
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/e3e12517-d30d-4a1c-9420-59a9a1425aa7">
+
 
 
 
