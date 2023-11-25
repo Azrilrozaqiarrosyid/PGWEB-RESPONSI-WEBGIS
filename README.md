@@ -8,7 +8,9 @@ MESEM merupakan website yang bertujuan untuk mengangkat potensi desa wisata sert
 
 Website ini dibangun dengan menggunakan bahasa PHP, HTML, JS, dan juga CSS. HTML, JS, dan CSS ini kemudian akan disatukan ke dalam sebuah ekstensi bernama boostrap yang digunakan sebagai komponen utama untuk tata letak hingga berbagai fitur yang ada. Komponen lain adalah penggunaan Leaflet.JS serta Apexchart yang berfungsi untuk dasar dalam pembuatan WebGIS dan data statistik dalam bentuk diagaram. Komponen pembangun lainnya adalah server PHPMYADMIN yang berfungsi sebagai database dalam penyimpanan dan updating data Sentra industri
 
-Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan referensi geografis akan diambil dari website Geoportal Kab. Sleman sedangkan data pendukung lain seperti atribut akan diambil dari halaman BPS kab. Sleman dalam publikasi "Kabupaten Sleman dalam Angka tahun 2023" serta dari website Bappeda Provinsi DIY
+Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan referensi geografis akan diambil dari website Geoportal Kab. Sleman sedangkan data pendukung lain seperti atribut akan diambil dari halaman BPS kab. Sleman dalam publikasi "Kabupaten Sleman dalam Angka tahun 2023" serta dari website Bappeda Provinsi DIY.
+
+WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bisa diapnggil ke file html sehingga semua file akan disamakan menggunakan php sehingga dapat dipanggil. Oleh karena itu, perlu pengaturan ulang untuk menampilkan hasil, terlebih karena menggunakan server localhost juga sehingga tidak akan tertampil secara otomatis di halaman GitHub.
 
 <img width="947" alt="Screenshot 2023-11-25 063953" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/02941929-ffa0-476e-81de-e878192863d0">
 
