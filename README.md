@@ -24,6 +24,8 @@ WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bi
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/f72a093d-77d6-4d8d-a48a-84b753e61ad7">
 
 
+<img width="960" alt="Screenshot 2023-11-25 103728" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/00f2c217-0f11-4061-8b58-4c8958823270">
+
 
 <img width="947" alt="Screenshot 2023-11-25 063953" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/02941929-ffa0-476e-81de-e878192863d0">
 
