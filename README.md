@@ -1,16 +1,22 @@
-# WEBGIS
-__MESEM: WEBGIS UNTUK RESPONSI PEMROGRAMAN GEOSPASIAL WEB__
+## PROJECT RESPONSI PRAKTIKUM PEMROGRAMAN GEOSPASIAL: WEB
 ___
-
-MESEM (Mengenal Desa Wisata dan Sentra Industri Kecil-Menengah di Kab. Sleman)
-
+__MESEM (Mengenal Desa Wisata dan Sentra Industri Kecil-Menengah di Kab. Sleman)__
+___
+## Deskripsi Project
+___
 MESEM merupakan website yang bertujuan untuk mengangkat potensi desa wisata serta berbagai sentra industri kecil menengah yang ada di Kabupaten Sleman. Website ini menawawrkan berbagai fitur berupa WebGIS yang akan menampilkan data persebaran desa wisata dan Sentra industri kecil-menengah dengan penambahan berbagai fitur interaktif seperti untuk melakukan rute. selain itu, website ini juga dilengkapi dengan statistik data serta dilengkapi dengan link data. Fitur lain adalah fitur formulir untuk penambahan data sentra industri sehingga pengunjung dapat berkontibusi juga dalam pembangunan website ini
-
+___
+## Komponen Pembangun
+___
 Website ini dibangun dengan menggunakan bahasa PHP, HTML, JS, dan juga CSS. HTML, JS, dan CSS ini kemudian akan disatukan ke dalam sebuah ekstensi bernama boostrap yang digunakan sebagai komponen utama untuk tata letak hingga berbagai fitur yang ada. Komponen lain adalah penggunaan Leaflet.JS serta Apexchart yang berfungsi untuk dasar dalam pembuatan WebGIS dan data statistik dalam bentuk diagaram. Komponen pembangun lainnya adalah server PHPMYADMIN yang berfungsi sebagai database dalam penyimpanan dan updating data Sentra industri
-
+___
+## Sumber Data
+___
 Sumber data yang digunakan ini akan diambil dari berbagai website. Data dengan referensi geografis akan diambil dari website Geoportal Kab. Sleman sedangkan data pendukung lain seperti atribut akan diambil dari halaman BPS kab. Sleman dalam publikasi "Kabupaten Sleman dalam Angka tahun 2023" serta dari website Bappeda Provinsi DIY.
-
-WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bisa diapnggil ke file html sehingga semua file akan disamakan menggunakan php sehingga dapat dipanggil. Oleh karena itu, perlu pengaturan ulang untuk menampilkan hasil, terlebih karena menggunakan server localhost juga sehingga tidak akan tertampil secara otomatis di halaman GitHub.
+___
+## Komponen Penting
+___
+WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bisa dipanggil ke file html sehingga semua file akan disamakan menggunakan php sehingga dapat dipanggil. Oleh karena itu, perlu pengaturan ulang untuk menampilkan hasil, terlebih karena menggunakan server localhost juga sehingga tidak akan tertampil secara otomatis di halaman GitHub.
 
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/PGWEB-RESPONSI-WEBGIS/assets/142295337/4c00cd29-54ef-497c-a4a0-654224ee39c4">
 
@@ -52,6 +58,11 @@ WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bi
 
 
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/e3e12517-d30d-4a1c-9420-59a9a1425aa7">
+___
+## Poster Project
+![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/6124f434-29c9-4ca7-8e70-820649969e1a)
+___
+
 
 
 
