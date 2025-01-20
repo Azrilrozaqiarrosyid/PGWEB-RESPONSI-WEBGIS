@@ -1,4 +1,4 @@
-## PROJECT RESPONSI PRAKTIKUM PEMROGRAMAN GEOSPASIAL: WEB
+![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/f573bbf4-d8fa-428e-829d-623da36e4fd8)![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/e6850c06-3e18-47af-94e1-e86001356f92)![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/24df6465-88ad-497d-b7b7-99c0229e4732)## PROJECT RESPONSI PRAKTIKUM PEMROGRAMAN GEOSPASIAL: WEB
 ___
 __MESEM (Mengenal Desa Wisata dan Sentra Industri Kecil-Menengah di Kab. Sleman)__
 ___
@@ -58,10 +58,12 @@ WebGIS ini sebagian besar menggunakan file php karena beberapa file php tidak bi
 
 
 <img width="960" alt="image" src="https://github.com/Azrilrozaqiarrosyid/WEBGIS/assets/142295337/e3e12517-d30d-4a1c-9420-59a9a1425aa7">
+
 ___
 ## Poster Project
-![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/6124f434-29c9-4ca7-8e70-820649969e1a)
-___
+![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/da0981a4-c912-4804-ab3b-501beffc6f8e)
+
+
 
 
 
