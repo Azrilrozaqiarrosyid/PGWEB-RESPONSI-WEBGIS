@@ -1,4 +1,4 @@
-![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/f573bbf4-d8fa-428e-829d-623da36e4fd8)![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/e6850c06-3e18-47af-94e1-e86001356f92)![POSTER_PGW_B_AZRIL_21660](https://github.com/user-attachments/assets/24df6465-88ad-497d-b7b7-99c0229e4732)## PROJECT RESPONSI PRAKTIKUM PEMROGRAMAN GEOSPASIAL: WEB
+## PROJECT RESPONSI PRAKTIKUM PEMROGRAMAN GEOSPASIAL: WEB
 ___
 __MESEM (Mengenal Desa Wisata dan Sentra Industri Kecil-Menengah di Kab. Sleman)__
 ___
